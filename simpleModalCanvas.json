@@ -1,0 +1,22 @@
+[
+{
+  "type": "text",
+  "text": "*Create a ticket*",
+  "style": "header"
+},
+{
+  "type": "input",
+  "id": "title",
+  "label": "Title",
+  "placeholder": "Enter a title for your issue..."
+},
+{
+  "type": "button",
+  "id": "submit-workspace-form",
+  "label": "Search workspace",
+  "style": "primary",
+  "action": {
+    "type": "submit"
+  }
+}
+]
